@@ -1,0 +1,787 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-09-02T06:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2223068738",
+        "amenity": "school",
+        "name": "Institut Supérieur de Technologie d'Afrique Centrale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8624255,
+          -4.7958856
+        ]
+      },
+      "id": "node/2223068738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2225651984",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8591264,
+          -4.7812384
+        ]
+      },
+      "id": "node/2225651984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2448258157",
+        "amenity": "school",
+        "name": "Ecole Makayabou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8782533,
+          -4.7579401
+        ]
+      },
+      "id": "node/2448258157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2465088494",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8625615,
+          -4.7490532
+        ]
+      },
+      "id": "node/2465088494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323401412",
+        "amenity": "school",
+        "name": "CTI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8594348,
+          -4.8042196
+        ]
+      },
+      "id": "node/3323401412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323401679",
+        "amenity": "school",
+        "name": "Ecole Alcar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8618846,
+          -4.7558872
+        ]
+      },
+      "id": "node/3323401679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323401681",
+        "amenity": "school",
+        "name": "Ecole Charlemagne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8553286,
+          -4.789599
+        ]
+      },
+      "id": "node/3323401681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323401688",
+        "amenity": "school",
+        "name": "Ecole Sans Pareil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9174203,
+          -4.7344634
+        ]
+      },
+      "id": "node/3323401688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323401689",
+        "amenity": "school",
+        "name": "Ecole Sophia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8605109,
+          -4.775016
+        ]
+      },
+      "id": "node/3323401689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323401711",
+        "amenity": "school",
+        "name": "Ecole de Siafoumou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.865957,
+          -4.7249627
+        ]
+      },
+      "id": "node/3323401711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323401712",
+        "amenity": "school",
+        "name": "Ecole de Tchimbamba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8745292,
+          -4.8220582
+        ]
+      },
+      "id": "node/3323401712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323401862",
+        "amenity": "school",
+        "name": "Eximius int school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8607724,
+          -4.7719341
+        ]
+      },
+      "id": "node/3323401862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323402073",
+        "amenity": "school",
+        "name": "L'arche de Noé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8541986,
+          -4.7962941
+        ]
+      },
+      "id": "node/3323402073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323402091",
+        "amenity": "school",
+        "name": "La Sandrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9064326,
+          -4.8125577
+        ]
+      },
+      "id": "node/3323402091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323402123",
+        "amenity": "school",
+        "name": "Les petits princes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.89373,
+          -4.838989
+        ]
+      },
+      "id": "node/3323402123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323402139",
+        "amenity": "school",
+        "name": "Lycee Technique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8629093,
+          -4.7372023
+        ]
+      },
+      "id": "node/3323402139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323402140",
+        "amenity": "school",
+        "name": "Lycee Technique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8622701,
+          -4.7489715
+        ]
+      },
+      "id": "node/3323402140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323402141",
+        "amenity": "school",
+        "name": "Lycee Victor Augagneur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8573299,
+          -4.7794043
+        ]
+      },
+      "id": "node/3323402141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323402142",
+        "amenity": "school",
+        "name": "Lycée Loandjili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8666575,
+          -4.7563818
+        ]
+      },
+      "id": "node/3323402142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323402215",
+        "amenity": "school",
+        "name": "Maternelle Charlemagne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8551875,
+          -4.790096
+        ]
+      },
+      "id": "node/3323402215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323403590",
+        "amenity": "school",
+        "name": "Sainte Claire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9143665,
+          -4.8196237
+        ]
+      },
+      "id": "node/3323403590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323405296",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8610496,
+          -4.7798471
+        ]
+      },
+      "id": "node/3323405296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323405342",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8547124,
+          -4.7964693
+        ]
+      },
+      "id": "node/3323405342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405006691",
+        "amenity": "school",
+        "name": "Direction Dom Helder Camara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8547727,
+          -4.7991689
+        ]
+      },
+      "id": "node/4405006691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405042190",
+        "amenity": "school",
+        "name": "Jules Ferry (Site2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8826907,
+          -4.8340928
+        ]
+      },
+      "id": "node/4405042190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405049989",
+        "amenity": "school",
+        "name": "Jules Ferry (Site1)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.875872,
+          -4.8246535
+        ]
+      },
+      "id": "node/4405049989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530850306",
+        "amenity": "school",
+        "name": "Lycee Les Trois Glorieuses, LTG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8560171,
+          -4.7905338
+        ]
+      },
+      "id": "node/4530850306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530850313",
+        "amenity": "school",
+        "name": "Lycee Pointe Noire II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8574079,
+          -4.7897644
+        ]
+      },
+      "id": "node/4530850313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4557878080",
+        "amenity": "school",
+        "name": "The Stars",
+        "operator": "Ecole Privée"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8520429,
+          -4.7943692
+        ]
+      },
+      "id": "node/4557878080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4557918059",
+        "amenity": "school",
+        "name": "Conny's academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8580286,
+          -4.7841838
+        ]
+      },
+      "id": "node/4557918059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4736077524",
+        "amenity": "school",
+        "name": "Pierre Tchickaya de Boampire",
+        "name:en": "PTB",
+        "opening_hours": "Mo-Fr 07:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9041767,
+          -4.8137916
+        ]
+      },
+      "id": "node/4736077524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4865894723",
+        "amenity": "school",
+        "name": "Ecole Primaire de Voungou",
+        "name:en": "Elementary School of Voungou",
+        "name:fr": "Ecole Primaire de Voungou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9055553,
+          -4.7962084
+        ]
+      },
+      "id": "node/4865894723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891366027",
+        "amenity": "school",
+        "name": "Ecole privée La Vocation",
+        "name:fr": "Ecole privée La Vocation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9164795,
+          -4.785547
+        ]
+      },
+      "id": "node/4891366027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891366032",
+        "amenity": "school",
+        "name": "Le Moulin de la Jeunesse",
+        "name:fr": "Le Moulin de la Jeunesse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9005827,
+          -4.7878864
+        ]
+      },
+      "id": "node/4891366032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891396821",
+        "amenity": "school",
+        "name": "CEG RAYMOND MOUTOU",
+        "name:fr": "CEG RAYMOND MOUTOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9110468,
+          -4.7890913
+        ]
+      },
+      "id": "node/4891396821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4926308621",
+        "amenity": "school",
+        "name": "Ecole internationale DELABORIEUX",
+        "name:fr": "Ecole internationale DELABORIEUX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9164679,
+          -4.8435846
+        ]
+      },
+      "id": "node/4926308621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4988176734",
+        "amenity": "school",
+        "name": "Ecole Consulaire \"Charlemagne\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8442179,
+          -4.8010545
+        ]
+      },
+      "id": "node/4988176734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5352410613",
+        "amenity": "school",
+        "name": "Les Petits Pandas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8793696,
+          -4.8165586
+        ]
+      },
+      "id": "node/5352410613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5357497824",
+        "amenity": "school",
+        "name": "Notre Dame du Rosaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8773526,
+          -4.8162659
+        ]
+      },
+      "id": "node/5357497824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5370797921",
+        "addr:housenumber": "105",
+        "addr:street": "Avenue Du Mgr Theophile Mbemba",
+        "amenity": "school",
+        "name": "La Marelle",
+        "phone": "064588512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8543218,
+          -4.7899605
+        ]
+      },
+      "id": "node/5370797921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435706774",
+        "amenity": "school",
+        "name": "Ecole Bilingue The Rainbow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8709441,
+          -4.8143409
+        ]
+      },
+      "id": "node/5435706774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435706799",
+        "amenity": "school",
+        "name": "Ecole Bilingue The Rainbow 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8716234,
+          -4.8130399
+        ]
+      },
+      "id": "node/5435706799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435706806",
+        "amenity": "school",
+        "name": "Ecole Internationale Les Anges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8722188,
+          -4.8122341
+        ]
+      },
+      "id": "node/5435706806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5498030688",
+        "amenity": "school",
+        "name": "Complexe scolaire Ilama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8766914,
+          -4.812635
+        ]
+      },
+      "id": "node/5498030688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5498030689",
+        "amenity": "school",
+        "name": "Complexe scolaire Les Biquettes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8736324,
+          -4.8144204
+        ]
+      },
+      "id": "node/5498030689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5692578922",
+        "amenity": "school",
+        "name": "École Ndendé Niengo",
+        "name:en": "Ndende Niengo School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8807318,
+          -4.7783061
+        ]
+      },
+      "id": "node/5692578922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5707463821",
+        "amenity": "school",
+        "name": "Les petits Princes de Mavinga",
+        "name:fr": "Les petits Princes de Mahinga",
+        "opening_hours": "Mo-Fr 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8936652,
+          -4.83894
+        ]
+      },
+      "id": "node/5707463821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5741219522",
+        "amenity": "school",
+        "name": "Complexe scolaire les Biquettes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8424633,
+          -4.80202
+        ]
+      },
+      "id": "node/5741219522"
+    }
+  ]
+}
