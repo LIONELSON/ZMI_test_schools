@@ -12,16 +12,49 @@
     </style>
 </head>
 <body>
+      <style>
+        #menu {
+          position: absolute;
+          background: #fff;
+          padding: 10px;
+          font-family: 'Open Sans', sans-serif;
+        }
+      </style>
+  
+    <div id='map'></div>
+    <div id='menu'>
+      <input id='cjkpxku8p2jqy2soec3u5z2ym' type='radio' name='rtoggle' value='light'>
+      <label for='light'>light</label>
+      <input id='cjkq2qj0015eb2rmt5uio6mnz' type='radio' name='rtoggle' value='satellite'>
+      <label for='satellite'>satellite</label>
+    </div>
 
-<div id='map'></div>
-<script>
+    <script> 
+        
 mapboxgl.accessToken = 'pk.eyJ1IjoibGlvbmVsc29uIiwiYSI6ImNqbDd2dXZsdjE3YWIzcG41MTNmN3hud2UifQ.iVy3gKIXWuMphV8sX4e2jw';
+ // Set bounds to PNR
+    var bounds = [
+    [ 11.7828369140625, -4.853575003777906], // Southwest coordinates
+    [11.970634460449219, -4.704064556139961]  // Northeast coordinates
+    ];
+
+    // Initialize map        
 var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/lionelson/cjljhph5t2isu2snzv159ouw4', // stylesheet location
     center: [11.88, -4.77], // starting position [lng, lat]
-    zoom: 7 // starting zoom
+    zoom: 6 // starting zoom
+    interactive: true
+    maxBounds: bounds // Sets bounds as max
 });
+// Add zoom and rotation controls to the map.
+map.addControl(new mapboxgl.NavigationControl());
+      
+function mapReset() {
+    
+  }
+
+        
 </script>
 
 </body>
